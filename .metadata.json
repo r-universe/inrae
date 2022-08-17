@@ -2,5 +2,9 @@
   {
     "package": "airGRiwrm",
     "oncran": true
+  },
+  {
+    "package": "hubeau",
+    "oncran": true
   }
 ]

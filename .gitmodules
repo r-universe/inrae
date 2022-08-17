@@ -8,3 +8,8 @@
 	url = https://github.com/inrae/airgriwrm
 	shallow = true
 	registered = true
+[submodule "hubeau"]
+	path = hubeau
+	url = https://github.com/inrae/hubeau
+	shallow = true
+	registered = true
