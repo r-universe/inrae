@@ -1,10 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/inrae/inrae.r-universe.dev
 	branch = HEAD
-[submodule "airGRiwrm"]
-	path = airGRiwrm
-	url = https://github.com/inrae/airgriwrm
+[submodule "CropWat"]
+	path = CropWat
+	url = https://forge.inrae.fr/umr-g-eau/cropwat
+[submodule "RADIS"]
+	path = RADIS
+	url = https://forge.inrae.fr/umr-g-eau/radis
+[submodule "aigriwrm"]
+	path = aigriwrm
+	url = https://github.com/inrae/aigriwrm
+[submodule "airgrccia"]
+	path = airgrccia
+	url = https://forge.inrae.fr/airgriwrm/airgrccia
+[submodule "datagouvfr"]
+	path = datagouvfr
+	url = https://forge.inrae.fr/umr-g-eau/datagouvfr
 [submodule "hubeau"]
 	path = hubeau
 	url = https://github.com/inrae/hubeau
