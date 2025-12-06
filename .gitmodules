@@ -8,12 +8,12 @@
 [submodule "RADIS"]
 	path = RADIS
 	url = https://forge.inrae.fr/umr-g-eau/radis
-[submodule "aiGRiwrm"]
-	path = aiGRiwrm
-	url = https://github.com/inrae/aigriwrm
 [submodule "airGRccia"]
 	path = airGRccia
 	url = https://forge.inrae.fr/airgriwrm/airgrccia
+[submodule "airGRiwrm"]
+	path = airGRiwrm
+	url = https://github.com/inrae/aigriwrm
 [submodule "datagouvfr"]
 	path = datagouvfr
 	url = https://forge.inrae.fr/umr-g-eau/datagouvfr
