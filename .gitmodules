@@ -13,7 +13,7 @@
 	url = https://forge.inrae.fr/airgriwrm/airgrccia
 [submodule "airGRiwrm"]
 	path = airGRiwrm
-	url = https://github.com/inrae/aigriwrm
+	url = https://github.com/inrae/airGRiwrm
 [submodule "datagouvfr"]
 	path = datagouvfr
 	url = https://forge.inrae.fr/umr-g-eau/datagouvfr
