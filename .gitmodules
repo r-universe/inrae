@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/inrae/inrae.r-universe.dev
 	branch = HEAD
+[submodule "CAWET"]
+	path = CAWET
+	url = https://forge.inrae.fr/umr-g-eau/cawet
 [submodule "CropWat"]
 	path = CropWat
 	url = https://forge.inrae.fr/umr-g-eau/cropwat
