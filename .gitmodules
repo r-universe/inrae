@@ -5,12 +5,14 @@
 [submodule "CAWET"]
 	path = CAWET
 	url = https://forge.inrae.fr/umr-g-eau/cawet
+	branch = main
 [submodule "CropWat"]
 	path = CropWat
 	url = https://forge.inrae.fr/umr-g-eau/cropwat
 [submodule "RADIS"]
 	path = RADIS
 	url = https://forge.inrae.fr/umr-g-eau/radis
+	branch = main
 [submodule "airGRccia"]
 	path = airGRccia
 	url = https://forge.inrae.fr/airgriwrm/airgrccia
