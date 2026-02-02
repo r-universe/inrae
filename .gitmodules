@@ -9,6 +9,9 @@
 [submodule "CropWat"]
 	path = CropWat
 	url = https://forge.inrae.fr/umr-g-eau/cropwat
+[submodule "IDEATools"]
+	path = IDEATools
+	url = https://github.com/davidcarayon/ideatools
 [submodule "OptirrigCORE"]
 	path = OptirrigCORE
 	url = https://forge.inrae.fr/OptirrigHIVE/OptirrigCORE
