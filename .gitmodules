@@ -9,6 +9,10 @@
 [submodule "CropWat"]
 	path = CropWat
 	url = https://forge.inrae.fr/umr-g-eau/cropwat
+[submodule "OptirrigCORE"]
+	path = OptirrigCORE
+	url = https://forge.inrae.fr/OptirrigHIVE/OptirrigCORE
+	branch = main
 [submodule "RADIS"]
 	path = RADIS
 	url = https://forge.inrae.fr/umr-g-eau/radis
