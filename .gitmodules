@@ -9,6 +9,7 @@
 [submodule "CropWat"]
 	path = CropWat
 	url = https://forge.inrae.fr/umr-g-eau/cropwat
+	branch = main
 [submodule "IDEATools"]
 	path = IDEATools
 	url = https://github.com/davidcarayon/ideatools
@@ -23,6 +24,7 @@
 [submodule "airGRccia"]
 	path = airGRccia
 	url = https://forge.inrae.fr/airgriwrm/airgrccia
+	branch = main
 [submodule "airGRiwrm"]
 	path = airGRiwrm
 	url = https://github.com/inrae/airGRiwrm
