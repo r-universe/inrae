@@ -17,6 +17,14 @@
 	path = OptirrigCORE
 	url = https://forge.inrae.fr/OptirrigHIVE/OptirrigCORE
 	branch = main
+[submodule "OptirrigTOOLS"]
+	path = OptirrigTOOLS
+	url = https://forge.inrae.fr/OptirrigHIVE/OptirrigTOOLS
+	branch = main
+[submodule "OptirrigVIEW"]
+	path = OptirrigVIEW
+	url = https://forge.inrae.fr/OptirrigHIVE/OptirrigVIEW
+	branch = main
 [submodule "RADIS"]
 	path = RADIS
 	url = https://forge.inrae.fr/umr-g-eau/radis
