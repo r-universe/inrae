@@ -40,6 +40,9 @@
 [submodule "datagouvfr"]
 	path = datagouvfr
 	url = https://forge.inrae.fr/umr-g-eau/datagouvfr
+[submodule "easy16S"]
+	path = easy16S
+	url = https://forge.inrae.fr/migale/easy16s
 [submodule "hubeau"]
 	path = hubeau
 	url = https://github.com/inrae/hubeau
